@@ -1,36 +1,61 @@
 ЗДРАВСТВУЙТЕ
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ярче
+Расширьте свое присутствие в Интернете
 
-### Markdown
+###Меня зовут Константин
+Я занимаюсь созданием сайтов, фотографий, музыки и открытием новых миров и культур.
+Опыт работы
+2016-Настоящее время
+Компания по веб-дизайну
+ВЕБ-ДИЗАЙНЕР
+Экологически проверенная кампания. Работа связанная с авиаперелётами. Эволюционный пользовательский интерфейс программы. Скидки.Эффекивное бесплатное приложение. Простой пользовательский язык.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2014-2016
+Компания по веб-дизайну
+ВЕБ-ДИЗАЙНЕР
+'Экологически проверенная кампания. Работа связанная с авиаперелётами. Эволюционный пользовательский интерфейс программы. Скидки.Эффекивное бесплатное приложение. Простой пользовательский язык.'..
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Образование
+2011
+Ui/Ux Сертификат
+УЧЕБНО-КОНСУЛЬТАЦИОННЫЙ ЦЕННТР "ИНФОРМ" РОССИЙСКАЯ ФЕДЕРАЦИЯ Г.КЕМЕРОВО
+Corel Draw(x4),Photoshop(CS4).
 
-- Bulleted
-- List
+Рекомендации
 
-1. Numbered
-2. List
+Свидетельство о гос.регистрации №11042050117778.
+Шуманских Ю.А.
 
-**Bold** and _Italic_ and `Code` text
+Портфолио
 
-[Link](url) and ![Image](src)
-```
+Бренды кампаний
+Графический дизайн
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Фирменный Стиль
+Графический дизайн
 
-### Jekyll Themes
+Веб-Дизайн Веб-сайта
+Графический дизайн
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vtakt/my-site-one/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Дизайн логотипа
+Графический дизайн
 
-### Support or Contact
+Дополнительные навыки
+75%
+ВДОХНОВЕНИЕ
+Оно также включает в себя пользование интернетом.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+83%
+ВДОХНОВЕНИЕ
+Оно также включает в себя пользование интернетом.
+
+### Общая информация
+День рожденияАпр 7, 1970
+АдресСибиряков-Гвардейцев, 310, Кемерово, Кемеровская область, Россия
+E-mailvtakt1970@gmail.com
+Телефон+7-951-224-4209
+
+
